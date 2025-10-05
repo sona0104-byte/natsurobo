@@ -1,0 +1,7 @@
+../Core/Src/MD03.c:13:6:MD03SetMotor	32	static
+../Core/Src/MD03.c:52:6:MD03SetMotorDeg	32	static
+../Core/Src/MD03.c:114:6:MD03SetMotorDegSpd	32	static
+../Core/Src/MD03.c:174:6:MD03SetMotorSpd	32	static
+../Core/Src/MD03.c:219:6:MD03SetPIDDeg	48	static
+../Core/Src/MD03.c:306:6:MD03SetPIDSpd	48	static
+../Core/Src/MD03.c:393:6:MD03SetEncInv	24	static
